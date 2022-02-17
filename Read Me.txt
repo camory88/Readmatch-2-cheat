@@ -1,0 +1,8 @@
+
+1 - >drag all files into the game directory(steamapps\common\Redmatch 2) besides the bypass.bat
+
+2 -> run bypass.bat
+
+3 -> start game!
+
+(You will need to run Bypass to play the game)
