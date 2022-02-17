@@ -1,3 +1,5 @@
+BeplnEx need to be extracted in the directory too
+
 
 1 - >drag all files into the game directory(steamapps\common\Redmatch 2) besides the bypass.bat
 
